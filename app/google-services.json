@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327665097791",
+    "project_id": "berita-universitas-66870",
+    "storage_bucket": "berita-universitas-66870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327665097791:android:e579d7b64e4003d7f8ec8a",
+        "android_client_info": {
+          "package_name": "com.azhar.reportapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327665097791-u4mpq64971fn36p3255ip1nea476cnj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANBMeXPBQ-_HEc6MObza_-LKl-B727ZQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327665097791-u4mpq64971fn36p3255ip1nea476cnj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
